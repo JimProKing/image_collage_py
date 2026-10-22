@@ -3,6 +3,9 @@
 40장의 사진을 예쁘게 정리해서 한 장의 콜라주로 만들고,  
 마지막에 한글 워터마크까지 얹어주는 프로젝트
 
+| 분류 | 상태 | 스택 | 바로 보기 |
+| --- | --- | --- | --- |
+| 자동화 · 연습 | 완료 | Python · Pillow | — |
 
 1. **img 폴더 자동 생성**  
    `step_1_1.py` 실행 → img, input, output 폴더 자동으로 만들어짐
@@ -25,3 +28,10 @@
    왼쪽 위에 반투명 검정 박스 + 크고 선명한 한글 글자 (“공주님 최고” 등)  
    → macOS 시스템 폰트(AppleGothic)로 한글 깨짐 완벽 해결  
    → 폰트 없어도 자동으로 나눔고딕 다운로드까지 되는 안전장치 완료
+
+---
+
+**관련 저장소** · [python-data-structures](https://github.com/JimProKing/python-data-structures) · [Web_Crawling](https://github.com/JimProKing/Web_Crawling) · [OCR_Pra](https://github.com/JimProKing/OCR_Pra) · [Card_Log_Practice](https://github.com/JimProKing/Card_Log_Practice)
+
+<sub>[JimProKing](https://github.com/JimProKing) · 이영찬 — 전체 저장소는 프로필의 프로젝트 지도에서 분야별로 볼 수 있습니다.</sub>
+<!-- jpk-footer -->
